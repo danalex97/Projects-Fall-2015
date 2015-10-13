@@ -25,3 +25,6 @@ Libraries and sources
 * enemy.h
 : This library contains the object descriptions and the rules on which they function. At the moment 3 object categories have been introduced. The functions are made to be generalised, therefore new object category can be introduced in a simple way.
 
+Requirements: g++ , SFML library ( http://www.sfml-dev.org/ )
+-------------------------------------------------------------
+
