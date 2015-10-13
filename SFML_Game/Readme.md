@@ -14,14 +14,14 @@ Libraries and sources
 =====================
 
 * constants.h
-This library loads the textures and the patterns for the AI movement. Also the textures are configured in sprites. 
+: This library loads the textures and the patterns for the AI movement. Also the textures are configured in sprites. 
 
 * gen.cpp
-This file is a generator for the patterns of AI object movement.
+: This file is a generator for the patterns of AI object movement.
 
 * protocoles.h
-This library includes the basic geometric methods used in the object movement. Even though is seems a 3D game, the functions are written on 2D basic geometry. The functions in this library include spawning an object, collapsing an object, the left-right and up-down protocols. 
+: This library includes the basic geometric methods used in the object movement. Even though is seems a 3D game, the functions are written on 2D basic geometry. The functions in this library include spawning an object, collapsing an object, the left-right and up-down protocols. 
 
 * enemy.h
-This library contains the object descriptions and the rules on which they function. At the moment 3 object categories have been introduced. The functions are made to be generalised, therefore new object category can be introduced in a simple way.
+: This library contains the object descriptions and the rules on which they function. At the moment 3 object categories have been introduced. The functions are made to be generalised, therefore new object category can be introduced in a simple way.
 
